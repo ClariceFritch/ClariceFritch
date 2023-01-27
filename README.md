@@ -24,4 +24,6 @@ Meu nome é Clarice, eu tenho 24 anos, concluí o curso de graduação em Produ�
 ### Onde me encontrar:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://br.linkedin.com/in/claricefritch)
 
+"Grandes coisas fez o Senhor por nós, pelas quais estamos alegres." (Salmos 126:3)
+
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=c8a2c8&height=120&section=footer"/>
