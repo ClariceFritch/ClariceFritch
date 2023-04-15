@@ -2,7 +2,7 @@
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=c8a2c8&height=120&section=header"/>
 
-Meu nome é Clarice, eu tenho 24 anos, concluí o curso de graduação em Produção Multimídia pelo Centro Universitário Belas Artes de São Paulo e sou apaixonada por programação, arte e design. Atualmente dedico meus estudos ao desenvolvimento de jogos 2D, da arte à programação, e à criação de curtas-metragens de animação 2D. Além disso, crio artes 3D e desenvolvo websites responsivos.
+Meu nome é Clarice, eu tenho 24 anos, concluí o curso de graduação em Produção Multimídia pelo Centro Universitário Belas Artes de São Paulo e sou apaixonada por programação, arte e design. Atualmente dedico meus estudos ao desenvolvimento de jogos 2D, da arte à programação, e à criação de curtas-metragens de animação 2D. Além disso, crio artes 3D e desenvolvo aplicações web front-end.
 
 <div align="center">  
   <img width="50%" src="https://github-readme-stats.vercel.app/api?username=ClariceFritch&show_icons=true&count_private=true&hide_border=true&title_color=c8a2c8&icon_color=c8a2c8&text_color=c9d1d9&bg_color=0d1117" alt="My stats"/> 
