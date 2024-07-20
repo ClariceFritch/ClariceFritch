@@ -2,7 +2,7 @@
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=c8a2c8&height=120&section=header"/>
 
-Meu nome é Clarice, eu tenho 24 anos e sou graduada em Produção Multimídia pelo Centro Universitário Belas Artes de São Paulo. Faço animações 2D (tenho um canal infantil no YouTube chamado Ovelhinha Maya), artes 3D, jogos digitais e aplicações web front-end.
+Meu nome é Clarice, eu tenho 25 anos, sou graduada em Produção Multimídia pelo Centro Universitário Belas Artes de São Paulo e pós-graduada em Animação, Jogos Digitais e Cultura do Entretenimento pelo Centro Universitário Armando Alvares Penteado. Faço animações 2D, artes 3D, jogos digitais e aplicações web front-end.
 
 <div align="center">  
   <img width="50%" src="https://github-readme-stats.vercel.app/api?username=ClariceFritch&show_icons=true&count_private=true&hide_border=true&title_color=c8a2c8&icon_color=c8a2c8&text_color=c9d1d9&bg_color=0d1117" alt="My stats"/> 
